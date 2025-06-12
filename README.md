@@ -22,9 +22,9 @@
 ### **Carbon Studio** ⚡
 *Where startup velocity meets thoughtful design*
 
-**A technology studio that partners with ambitious companies to craft functional, beautiful, and enduring products.**
+**A technology studio that crafts a suite of consumer apps and helps companies build their consumer MVPs.**
 
-We're not a creative agency — we're a fullstack development studio that builds and launches consumer products users fall in love with, from MVP to market-ready scale. For entrepreneurs who understand that great consumer software requires more than just functionality—it demands design craft.
+We're not a creative agency — we're a fullstack development studio that builds and launches our own suite of consumer products users fall in love with. We also partner with ambitious companies to take their ideas from MVP to market-ready scale. For entrepreneurs who understand that great consumer software requires more than just functionality—it demands design craft.
 
 [**→ Visit Carbon Studio**](https://carbonstudio.xyz)
 
@@ -34,18 +34,18 @@ We're not a creative agency — we're a fullstack development studio that builds
 
 ## 💫 About Me
 
-**Product Engineer** with a design background, currently studying Computer Science at Cornell. I specialize in building consumer products at the intersection of **AI**, **design**, and **entrepreneurship**.
+**Product Engineer** with a design background, recent Cornell CS graduate. I specialize in building consumer products at the intersection of **design** and **engineering**.
 
 🎙️ **Co-founder & CTO** at **Boltzman** — Voice AI productivity platform (800+ users)  
 🎵 **Product Designer** at **Samply** — Professional audio platform serving 20k+ musicians  
 🏠 **Previously Co-founded Lawnstack** — $6M SaaS platform backed by Alchemist Accelerator  
 🏢 **Former Product Design Intern** at **Palantir Technologies**  
 
-*Currently launching dozens of consumer products through Carbon Studio while finishing my CS degree.*
+*Currently building our own suite of consumer apps through Carbon Studio while helping companies launch their MVPs.*
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <details>
 <summary><b>💻 Development Stack</b></summary>
@@ -92,28 +92,29 @@ We're not a creative agency — we're a fullstack development studio that builds
 
 ## 🏗️ Featured Work
 
-### 🎙️ **Boltzman** • *Co-founder & CTO*
+### 🎙️ **[Boltzman](https://www.boltzman.ai/)** • *Co-founder & CTO*
 Voice AI productivity platform with **800+ active users**. Building hands-free digital content access and enterprise call handling systems.
+[Consumer Platform](https://www.boltzman.ai/) • [Enterprise Solution](https://enterprise.boltzman.ai/)
 
-### 🎵 **Samply** • *Product Designer*
+### 🎵 **[Samply](https://samply.app/)** • *Product Designer*
 Professional audio platform serving **20k+ musicians** including teams for **Taylor Swift**, **Sabrina Carpenter**, and **Harry Styles**. Led file management redesign and iOS design system refresh.
 
-### 🏠 **Lawnstack** • *Co-founder & CTO*
+### 🏠 **[Lawnstack](https://www.lawnstack.com/)** • *Co-founder & CTO*
 SaaS home service platform valued at **$6M**, backed by **Alchemist Accelerator** (world's #1 B2B accelerator). Generated **$40k+ in GVM**.
 
-### 🏢 **Palantir Technologies** • *Product Design Intern*
+### 🏢 **[Palantir Technologies](https://www.palantir.com/)** • *Product Design Intern*
 Designed AIP Logic's quick-start experience, reducing production use case creation time **from minutes to seconds**.
 
 ### 🌾 **NA Food Systems Network** • *Full-stack Developer*
-Built audit tools serving **70+ communities** and consultant directory with **65+ professionals**. Automated processing for **3000+ job postings**.
+Built [audit tools](https://carattool.org/) serving **70+ communities** and [consultant directory](https://www.foodsystemsconsultants.org/) with **65+ professionals**. Automated processing for **3000+ job postings**.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LiamDu386&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LiamDu386&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiamDu386&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamDu386&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
 </div>
 
 <div align="center">
