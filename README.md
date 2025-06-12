@@ -1,6 +1,6 @@
 # Hey, I'm Liam 👨‍💻
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=6366F1&center=false&vCenter=true&multiline=true&random=false&width=700&height=120&lines=Product+Engineer+%40+Cornell+🎓;Building+Carbon+Studio+⚡;Where+Startup+Velocity+Meets+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=6366F1&center=false&vCenter=true&multiline=true&random=false&width=700&height=120&lines=Product+Engineer;Building+Carbon+Studio+⚡;Where+Startup+Velocity+Meets+Design" alt="Typing SVG" />
 
 <a href="https://liamdu.com">
   <img src="https://img.shields.io/badge/🌐_liamdu.com-4338CA?style=for-the-badge&logoColor=white" alt="Website"/>
