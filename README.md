@@ -1,23 +1,17 @@
 # Hey, I'm Liam 👨‍💻
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&random=false&width=700&height=120&lines=Product+Engineer+%40+Cornell+🎓;Building+Carbon+Studio+⚡;Where+Startup+Velocity+Meets+Design" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=6366F1&center=false&vCenter=true&multiline=true&random=false&width=700&height=120&lines=Product+Engineer+%40+Cornell+🎓;Building+Carbon+Studio+⚡;Where+Startup+Velocity+Meets+Design" alt="Typing SVG" />
 
-<div align="center">
-  <a href="https://liamdu.com">
-    <img src="https://img.shields.io/badge/🌐_liamdu.com-4338CA?style=for-the-badge&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://carbonstudio.xyz">
-    <img src="https://img.shields.io/badge/⚡_Carbon_Studio-10B981?style=for-the-badge&logoColor=white" alt="Carbon Studio"/>
-  </a>
-</div>
+<a href="https://liamdu.com">
+  <img src="https://img.shields.io/badge/🌐_liamdu.com-4338CA?style=for-the-badge&logoColor=white" alt="Website"/>
+</a>
+<a href="https://carbonstudio.xyz">
+  <img src="https://img.shields.io/badge/⚡_Carbon_Studio-10B981?style=for-the-badge&logoColor=white" alt="Carbon Studio"/>
+</a>
 
 ---
 
 ## 🚀 What I'm Building
-
-<div align="center">
 
 ### **Carbon Studio** ⚡
 *Where startup velocity meets thoughtful design*
@@ -27,8 +21,6 @@
 We're not a creative agency — we're a fullstack development studio that builds and launches our own suite of consumer products users fall in love with. We also partner with ambitious companies to take their ideas from MVP to market-ready scale. For entrepreneurs who understand that great consumer software requires more than just functionality—it demands design craft.
 
 [**→ Visit Carbon Studio**](https://carbonstudio.xyz)
-
-</div>
 
 ---
 
@@ -112,24 +104,13 @@ Built [audit tools](https://carattool.org/) serving **70+ communities** and [con
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiamDu386&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamDu386&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
-</div>
+<img src="https://streak-stats.demolab.com/?user=LiamDu386&theme=midnight-purple&hide_border=true" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LiamDu386&theme=midnight-purple&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiamDu386&theme=tokyo-night&hide_border=true&radius=10" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LiamDu386&theme=tokyo-night&hide_border=true&radius=10" />
 
 ---
 
 ## 🏆 Recognition
-
-<div align="center">
 
 | Award | Organization | Year |
 |-------|-------------|------|
@@ -139,33 +120,25 @@ Built [audit tools](https://carattool.org/) serving **70+ communities** and [con
 | 🚀 **Alchemist Accelerator** | World's #1 B2B Accelerator | 2024 |
 | 🎨 **Meta Design Summit** | Meta (14-week program) | 2022 |
 
-</div>
-
 ---
 
 ## 🌐 Let's Connect
 
-<div align="center">
-  <a href="https://liamdu.com">
-    <img src="https://img.shields.io/badge/Portfolio-liamdu.com-4338CA?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
-  <a href="https://carbonstudio.xyz">
-    <img src="https://img.shields.io/badge/Carbon_Studio-carbonstudio.xyz-10B981?style=for-the-badge&logo=lightning&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/liam-du/">
-    <img src="https://img.shields.io/badge/LinkedIn-liam--du-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ld386@cornell.edu">
-    <img src="https://img.shields.io/badge/Email-ld386%40cornell.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<a href="https://liamdu.com">
+  <img src="https://img.shields.io/badge/Portfolio-liamdu.com-4338CA?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+<a href="https://carbonstudio.xyz">
+  <img src="https://img.shields.io/badge/Carbon_Studio-carbonstudio.xyz-10B981?style=for-the-badge&logo=lightning&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/liam-du/">
+  <img src="https://img.shields.io/badge/LinkedIn-liam--du-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ld386@cornell.edu">
+  <img src="https://img.shields.io/badge/Email-ld386%40cornell.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LiamDu386&color=6366f1&style=flat-square&label=visitors" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=LiamDu386&color=6366f1&style=flat-square&label=visitors" />
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Building%20the%20future,%20one%20product%20at%20a%20time&fontSize=16&fontColor=fff&animation=twinkling"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Building%20the%20future,%20one%20product%20at%20a%20time&fontSize=16&fontColor=fff&animation=twinkling"/>
