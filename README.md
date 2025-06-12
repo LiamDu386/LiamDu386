@@ -1,23 +1,170 @@
-# Liam Du | Product Engineer
+# Hey, I'm Liam 👨‍💻
 
-[![Website](https://img.shields.io/badge/Website-liamdu.com-blue)](https://www.liamdu.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-liam--du-0077B5)](https://www.linkedin.com/in/liam-du/)
-[![Email](https://img.shields.io/badge/Email-ld386%40cornell.edu-red)](mailto:liamdudesign@gmail.com)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&random=false&width=700&height=120&lines=Product+Engineer+%40+Cornell+🎓;Building+Carbon+Studio+⚡;Where+Startup+Velocity+Meets+Design" alt="Typing SVG" />
+</div>
 
-## 🛠️ Tech Stack
-
-```js
-// Frontend
-const frontend = ['React', 'React Native', 'Vue', 'Electron', 'TailwindCSS', 'NextJS', 'HTML/CSS'];
-
-// Backend
-const backend = ['Node.js', 'Express', 'Python', 'MongoDB', 'PostgreSQL', 'MySQL'];
-
-// Languages
-const languages = ['TypeScript', 'JavaScript', 'Swift', 'Java', 'OCaml', 'C', 'C++', 'Python'];
-
-// Design
-const design = ['Figma', 'Origami', 'InVision', 'Adobe Creative Cloud'];
-```
+<div align="center">
+  <a href="https://liamdu.com">
+    <img src="https://img.shields.io/badge/🌐_liamdu.com-4338CA?style=for-the-badge&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://carbonstudio.xyz">
+    <img src="https://img.shields.io/badge/⚡_Carbon_Studio-10B981?style=for-the-badge&logoColor=white" alt="Carbon Studio"/>
+  </a>
+</div>
 
 ---
+
+## 🚀 What I'm Building
+
+<div align="center">
+
+### **Carbon Studio** ⚡
+*Where startup velocity meets thoughtful design*
+
+**A technology studio that partners with ambitious companies to craft functional, beautiful, and enduring products.**
+
+We're not a creative agency — we're a fullstack development studio that builds and launches consumer products users fall in love with, from MVP to market-ready scale. For entrepreneurs who understand that great consumer software requires more than just functionality—it demands design craft.
+
+[**→ Visit Carbon Studio**](https://carbonstudio.xyz)
+
+</div>
+
+---
+
+## 💫 About Me
+
+**Product Engineer** with a design background, currently studying Computer Science at Cornell. I specialize in building consumer products at the intersection of **AI**, **design**, and **entrepreneurship**.
+
+🎙️ **Co-founder & CTO** at **Boltzman** — Voice AI productivity platform (800+ users)  
+🎵 **Product Designer** at **Samply** — Professional audio platform serving 20k+ musicians  
+🏠 **Previously Co-founded Lawnstack** — $6M SaaS platform backed by Alchemist Accelerator  
+🏢 **Former Product Design Intern** at **Palantir Technologies**  
+
+*Currently launching dozens of consumer products through Carbon Studio while finishing my CS degree.*
+
+---
+
+## ⚡ Tech Arsenal
+
+<details>
+<summary><b>💻 Development Stack</b></summary>
+<br>
+
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frontend & Mobile**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🎨 Design Toolkit</b></summary>
+<br>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-FF0000?style=flat-square&logo=adobe-creative-cloud&logoColor=white)
+![Origami](https://img.shields.io/badge/Origami-FF69B4?style=flat-square&logo=facebook&logoColor=white)
+![InVision](https://img.shields.io/badge/InVision-FF3366?style=flat-square&logo=invision&logoColor=white)
+
+**Design Systems** • **User Research** • **Prototyping** • **Motion Design** • **A/B Testing**
+
+</details>
+
+---
+
+## 🏗️ Featured Work
+
+### 🎙️ **Boltzman** • *Co-founder & CTO*
+Voice AI productivity platform with **800+ active users**. Building hands-free digital content access and enterprise call handling systems.
+
+### 🎵 **Samply** • *Product Designer*
+Professional audio platform serving **20k+ musicians** including teams for **Taylor Swift**, **Sabrina Carpenter**, and **Harry Styles**. Led file management redesign and iOS design system refresh.
+
+### 🏠 **Lawnstack** • *Co-founder & CTO*
+SaaS home service platform valued at **$6M**, backed by **Alchemist Accelerator** (world's #1 B2B accelerator). Generated **$40k+ in GVM**.
+
+### 🏢 **Palantir Technologies** • *Product Design Intern*
+Designed AIP Logic's quick-start experience, reducing production use case creation time **from minutes to seconds**.
+
+### 🌾 **NA Food Systems Network** • *Full-stack Developer*
+Built audit tools serving **70+ communities** and consultant directory with **65+ professionals**. Automated processing for **3000+ job postings**.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LiamDu386&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LiamDu386&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=LiamDu386&theme=midnight-purple&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiamDu386&theme=tokyo-night&hide_border=true&radius=10" />
+</div>
+
+---
+
+## 🏆 Recognition
+
+<div align="center">
+
+| Award | Organization | Year |
+|-------|-------------|------|
+| 🏆 **Student Employee of the Year** | Cornell University | 2024 |
+| 🏆 **EY Corporate Award** | Cornell Tech Showcase | 2023 |
+| 🥈 **2nd Place Hack Week** | Palantir Technologies | 2024 |
+| 🚀 **Alchemist Accelerator** | World's #1 B2B Accelerator | 2024 |
+| 🎨 **Meta Design Summit** | Meta (14-week program) | 2022 |
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://liamdu.com">
+    <img src="https://img.shields.io/badge/Portfolio-liamdu.com-4338CA?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+  <a href="https://carbonstudio.xyz">
+    <img src="https://img.shields.io/badge/Carbon_Studio-carbonstudio.xyz-10B981?style=for-the-badge&logo=lightning&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/liam-du/">
+    <img src="https://img.shields.io/badge/LinkedIn-liam--du-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ld386@cornell.edu">
+    <img src="https://img.shields.io/badge/Email-ld386%40cornell.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LiamDu386&color=6366f1&style=flat-square&label=visitors" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Building%20the%20future,%20one%20product%20at%20a%20time&fontSize=16&fontColor=fff&animation=twinkling"/>
+</div>
