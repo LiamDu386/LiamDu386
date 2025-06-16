@@ -140,5 +140,3 @@ Built [audit tools](https://carattool.org/) serving **70+ communities** and [con
 <img src="https://komarev.com/ghpvc/?username=LiamDu386&color=6366f1&style=flat-square&label=visitors" />
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Building%20the%20future,%20one%20product%20at%20a%20time&fontSize=16&fontColor=fff&animation=twinkling"/>
